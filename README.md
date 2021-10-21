@@ -1,5 +1,5 @@
 ## 简要信息
-* 公司: mprc
+* 组织: mprc
 * 用途: 存储gem5的docker镜像
 * 邮箱：lonelystrange@foxmail.com
 * 声明: 众志版权，侵权必究
