@@ -1,9 +1,8 @@
-## 招聘信息
-* 公司：中国电信云公司
-* 职业：openstack研发
-* 要求：有openstack研发经验，能对openstack组件做二次开发，或者有志从事云计算开发事业的大牛高手。
-* 薪资：20k-50k
-* 邮箱：yangjf@chinatelecom.cn
+## 简要信息
+* 公司: mprc
+* 用途: 存储gem5的docker镜像
+* 邮箱：lonelystrange@foxmail.com
+* 声明: 众志版权，侵权必究
 
 ## docker-library
 
